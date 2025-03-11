@@ -29,7 +29,7 @@ public class Calculadora {
             }
         } while (opcao != 3);
 
-        scanner.close();
+  //      scanner.close();
     }
 
     // Função para calcular o preço total
